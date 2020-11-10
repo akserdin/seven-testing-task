@@ -6,7 +6,7 @@ namespace Site;
 
 class User extends Controller
 {
-    const TEMPLATE_NAME = 'users.php';
+    const TEMPLATE_NAME = 'users.tpl';
 
     public function getAction()
     {

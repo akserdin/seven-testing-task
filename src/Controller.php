@@ -32,7 +32,7 @@ abstract class Controller
 
     public function notFoundAction()
     {
-        $this->view->render('404.php');
+        $this->view->render('404.tpl');
         exit();
     }
 }

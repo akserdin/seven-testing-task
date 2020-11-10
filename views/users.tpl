@@ -1,5 +1,5 @@
 <h2>Add new user</h2>
-<?php include VIEWS_DIR . 'form.php'; ?>
+<?php include VIEWS_DIR . 'form.tpl'; ?>
 
 <!-- List of users and form -->
 <h2>All users</h2>
